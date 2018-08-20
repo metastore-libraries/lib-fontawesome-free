@@ -1,0 +1,37 @@
+{
+	"name": "metastore/lib-fontawesome-free",
+	"type": "library",
+	"description": "Font Awesome, the iconic SVG, font, and CSS framework. Font Awesome library for METADATA projects.",
+	"license": [
+		"CC-BY-4.0",
+		"MIT",
+		"OFL-1.1"
+	],
+	"homepage": "https://metastore.pro",
+	"keywords": [
+		"metadata",
+		"metastore",
+		"font awesome"
+	],
+	"authors": [
+		{
+			"name": "Kitsune Solar",
+			"email": "kitsune.solar@gmail.com",
+			"homepage": "https://kitsune.solar",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"email": "support@metastore.pro",
+		"issues": "https://gitlab.com/metastore/libraries/lib-fontawesome-free/issues",
+		"forum": "https://webmasters.community",
+		"wiki": "https://webmasters.wiki",
+		"source": "https://gitlab.com/metastore/libraries/lib-fontawesome-free"
+	},
+	"config": {
+		"preferred-install": "dist",
+		"sort-packages": true
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
